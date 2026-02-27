@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Allow: /articles/
+
+Sitemap: https://netblogword-site.netlify.app/index.html
